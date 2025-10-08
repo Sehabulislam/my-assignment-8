@@ -1,19 +1,22 @@
 
 import React from "react";
+import { AiOutlineAppstore } from "react-icons/ai";
 import { FaGithub } from "react-icons/fa";
+import { IoHomeOutline } from "react-icons/io5";
+import { MdInstallDesktop } from "react-icons/md";
 import { Link, NavLink } from "react-router";
 
 const Navbar = () => {
     const links = <>
           <NavLink to='/' className={({ isActive }) =>
-          isActive ? "text-[#632EE3] font-bold" : ""
-        }>Home</NavLink>
+          isActive ? "text-[#632EE3] font-bold flex items-center gap-1" : ""
+        }><IoHomeOutline />Home</NavLink>
           <NavLink to='' className={({ isActive }) =>
-          isActive ? "text-[#632EE3] font-bold" : "text-gray-200"
-        }>Apps</NavLink>
+          isActive ? "text-[#632EE3] font-bold flex items-center gap-1" : "text-gray-200"
+        }><AiOutlineAppstore />Apps</NavLink>
           <NavLink to='' className={({ isActive }) =>
-          isActive ? "text-[#632EE3] font-bold" : ""
-        }>Installation</NavLink>
+          isActive ? "text-[#632EE3] font-bold flex items-center gap-1" : ""
+        }><MdInstallDesktop />Installation</NavLink>
     </>
   return (
     <div className="navbar bg-base-100 md:w-11/12 mx-auto">

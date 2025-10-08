@@ -1,7 +1,11 @@
 import React from 'react';
 import TotalAchieve from './TotalAchieve';
+import TrendingApps from './TrendingApps';
+import { useLoaderData } from 'react-router';
 
 const Home = () => {
+    const trendingApp = useLoaderData();
+    // console.log(trendingApp);
     return (
         <div>
             <div className='flex flex-col justify-center items-center bg-gray-50 space-y-5'>
@@ -18,6 +22,10 @@ const Home = () => {
             </div>
         </div>
         <TotalAchieve></TotalAchieve>
+        <TrendingApps trendingApp={trendingApp}></TrendingApps>
+        <div className='text-center py-10 md:py-20'>
+            <button className='btn md:px-15 md:py-7 text-lg bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white'>Show All</button>
+        </div>
         </div>
     );
 };
