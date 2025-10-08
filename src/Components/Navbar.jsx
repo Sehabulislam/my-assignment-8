@@ -16,7 +16,7 @@ const Navbar = () => {
         }>Installation</NavLink>
     </>
   return (
-    <div className="navbar bg-base-100">
+    <div className="navbar bg-base-100 md:w-11/12 mx-auto">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost md:hidden">
@@ -43,7 +43,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="flex items-center">
-            <a className="btn btn-ghost text-2xl font-extrabold  bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><img src="/src/assets/logo.png" alt="logo" className="w-10"/>HERO.IO</a>
+            <a className="btn btn-ghost text-2xl font-extrabold  bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><img src="/src/assets/logo.png" className="w-10"/>HERO.IO</a>
         </div>
       </div>
       <div className="navbar-center hidden md:flex">
