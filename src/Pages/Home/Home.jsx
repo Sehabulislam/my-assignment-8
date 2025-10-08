@@ -1,7 +1,7 @@
 import React from 'react';
 import TotalAchieve from './TotalAchieve';
 import TrendingApps from './TrendingApps';
-import { useLoaderData } from 'react-router';
+import { Link, useLoaderData } from 'react-router';
 
 const Home = () => {
     const trendingApp = useLoaderData();
@@ -24,7 +24,7 @@ const Home = () => {
         <TotalAchieve></TotalAchieve>
         <TrendingApps trendingApp={trendingApp}></TrendingApps>
         <div className='text-center py-10 md:py-20'>
-            <button className='btn md:px-15 md:py-7 text-lg bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white'>Show All</button>
+            <Link to='/allapps' className='btn md:px-15 md:py-7 text-lg bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white transition duration-300 ease-in-out hover:scale-110'>Show All</Link>
         </div>
         </div>
     );

@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/250px-Instagram_logo_2022.svg.png",
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "id": 1,
+    "description": "Instagram is a vibrant social media platform designed for sharing photos, videos, and stories with friends and followers worldwide. Discover a vast array of content from global creators, explore trending topics, and engage through direct messages. Express yourself creatively with Stories and Reels, utilizing filters, effects, and music to enhance your posts. Join millions who share their daily moments, from personal milestones to artistic projects. The app’s intuitive interface allows seamless browsing, liking, and commenting, fostering connections with influencers, brands, or friends. Build communities around shared interests, follow your passions, and stay updated with the latest trends. Whether you're showcasing your lifestyle, promoting a business, or connecting with like-minded individuals, Instagram offers a dynamic space to engage visually and socially, making it a go-to platform for creative expression and community building in the digital age.",
+    "size": "45 MB",
+    "reviews": "128M",
+    "ratingAvg": 4.3,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 12800000 },
+      { "name": "2 star", "count": 8960000 },
+      { "name": "3 star", "count": 19200000 },
+      { "name": "4 star", "count": 32000000 },
+      { "name": "5 star", "count": 55040000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-photo/tiktok-logo_1080029-103.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 2,
+    "description": "TikTok is the premier platform for creating and watching short-form mobile videos, sparking creativity and joy globally. Users can produce engaging content using music, filters, and effects, or dive into trending challenges that captivate millions. Connect with a diverse community of creators sharing authentic, entertaining videos, from dance and comedy to educational tutorials. The app’s user-friendly interface simplifies video creation, editing, and sharing, empowering everyone to showcase their unique style. Explore an endless feed of personalized content tailored to your interests, discover viral trends, and participate in global challenges. Whether you're a creator or a viewer, TikTok offers a dynamic space to express yourself, stay entertained, and connect with others worldwide. From discovering new talents to joining creative movements, TikTok’s vibrant ecosystem makes it a cultural hub for entertainment and inspiration, accessible anytime, anywhere.",
+    "size": "150 MB",
+    "reviews": "95M",
+    "ratingAvg": 4.5,
+    "downloads": "3.5B+",
+    "ratings": [
+      { "name": "1 star", "count": 5700000 },
+      { "name": "2 star", "count": 4750000 },
+      { "name": "3 star", "count": 14250000 },
+      { "name": "4 star", "count": 28500000 },
+      { "name": "5 star", "count": 41800000 }
+    ]
+  },
+  {
+    "image": "https://store-images.s-microsoft.com/image/apps.8453.13655054093851568.4a371b72-2ce8-4bdb-9d83-be49894d3fa0.7f3687b9-847d-4f86-bb5c-c73259e2b38e",
+    "title": "WhatsApp",
+    "companyName": "WhatsApp LLC",
+    "id": 3,
+    "description": "WhatsApp Messenger is a free, secure messaging app for Android and other smartphones, enabling seamless communication worldwide. Send text and voice messages, make voice and video calls, and share photos, documents, and locations effortlessly. With end-to-end encryption, your conversations remain private, ensuring security for personal and professional use. Create group chats to stay connected with friends, family, or colleagues, and share updates instantly. The app’s straightforward interface makes it easy to navigate, offering reliable messaging and calling features across devices. Whether coordinating with a team, catching up with loved ones, or sharing life’s moments, WhatsApp provides a trusted platform for global connectivity. Its versatility supports multimedia sharing and real-time communication, making it a go-to choice for millions. Stay in touch with ease, knowing your data is protected, and enjoy a fast, intuitive experience for all your messaging needs.",
+    "size": "62 MB",
+    "reviews": "156M",
+    "ratingAvg": 4.2,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 15600000 },
+      { "name": "2 star", "count": 12480000 },
+      { "name": "3 star", "count": 23400000 },
+      { "name": "4 star", "count": 39000000 },
+      { "name": "5 star", "count": 65520000 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/c4/da/b9c4da8d-25cf-cd21-38ae-f37883457abe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/230x0w.webp",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 4,
+    "description": "Snapchat transforms how you share moments with friends and family through Lenses, Filters, and Bitmoji. Send snaps that vanish after viewing, create Stories to capture daily highlights, and explore content from global publishers. Chat with text, voice notes, or video calls for instant connection. The app’s playful features make communication fun, encouraging creativity with every snap. Discover trending content, follow creators, and share your unique perspective. Snapchat’s intuitive design supports quick sharing and real-time interaction, perfect for casual hangouts or creative expression. Whether capturing spontaneous moments or curating Stories, the app fosters a vibrant community where users connect through visual storytelling. Engage with friends or explore global trends, making every moment memorable. Snapchat’s dynamic platform blends fun, creativity, and connectivity, offering a fresh way to stay in touch and share life’s highlights with those who matter most.",
+    "size": "128 MB",
+    "reviews": "89M",
+    "ratingAvg": 4.1,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 10680000 },
+      { "name": "2 star", "count": 8900000 },
+      { "name": "3 star", "count": 17800000 },
+      { "name": "4 star", "count": 26700000 },
+      { "name": "5 star", "count": 24920000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5,
+    "description": "Facebook connects you with friends, family, and communities worldwide, offering a platform to share and discover what matters most. Post updates, photos, and videos, watch live streams, and stay informed about global events. Join groups to engage with shared interests, follow pages for updates from brands or creators, and explore diverse content tailored to your preferences. The app’s robust features enable seamless interaction, from messaging to event planning. Reconnect with old friends, build new relationships, and participate in communities that resonate with you. Whether sharing life’s milestones or browsing trending topics, Facebook fosters meaningful connections. Its user-friendly interface supports multimedia sharing and real-time engagement, making it a hub for social interaction. Discover news, entertainment, and more while staying connected with the people and causes you care about, all in one dynamic, accessible platform for global connectivity.",
+    "size": "85 MB",
+    "reviews": "142M",
+    "ratingAvg": 3.8,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 28400000 },
+      { "name": "2 star", "count": 21300000 },
+      { "name": "3 star", "count": 28400000 },
+      { "name": "4 star", "count": 35500000 },
+      { "name": "5 star", "count": 28400000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-h-e2hgz8mwGfCt4gvj4IgMG_wAUolVM6w&s",
+    "title": "Twitter",
+    "companyName": "X Corp.",
+    "id": 6,
+    "description": "Twitter is a dynamic social media platform for real-time updates on news, entertainment, sports, and politics. Share your thoughts through tweets, engage in global conversations, and follow topics or people that interest you. Stay informed with breaking news, trending hashtags, and diverse perspectives from millions of users. The app’s fast-paced environment supports short, impactful messages, photos, and videos, making it easy to express yourself. Connect with influencers, celebrities, or friends, and join discussions on any topic. Twitter’s intuitive design ensures quick access to the latest updates, whether you’re sharing opinions or exploring viral content. From global events to niche interests, the platform keeps you in the loop with real-time information. Engage with a vibrant community, amplify your voice, and discover what’s happening worldwide, all within a streamlined interface designed for instant connection and impactful communication.",
+    "size": "73 MB",
+    "reviews": "78M",
+    "ratingAvg": 3.9,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 15600000 },
+      { "name": "2 star", "count": 11700000 },
+      { "name": "3 star", "count": 15600000 },
+      { "name": "4 star", "count": 19500000 },
+      { "name": "5 star", "count": 15600000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dbOUeCrOBe-mkfGD-fEjQNECJrkromWTYg&s",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "Telegram is a fast, secure messaging app prioritizing privacy and versatility. Send messages, photos, videos, and files of any type, and create group chats with up to 200,000 members. Its cloud-based storage ensures access to your data across multiple devices, with seamless synchronization. Share large videos, documents, or links effortlessly, and enjoy end-to-end encryption for private conversations. The app’s minimalist design offers a smooth experience for personal, professional, or community communication. Organize chats, pin important messages, and customize notifications to stay in control. Telegram’s robust security features make it a trusted choice for millions worldwide. Whether connecting with friends, collaborating with teams, or joining public channels, the app delivers speed and reliability. With no limits on chat size or media sharing, Telegram empowers users to communicate freely, making it ideal for secure, large-scale, and dynamic interactions anytime, anywhere.",
+    "size": "56 MB",
+    "reviews": "67M",
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 2680000 },
+      { "name": "2 star", "count": 2010000 },
+      { "name": "3 star", "count": 6700000 },
+      { "name": "4 star", "count": 16750000 },
+      { "name": "5 star", "count": 38860000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 8,
+    "description": "Spotify is a leading music streaming service offering millions of songs, podcasts, and videos from artists worldwide. Discover new music, create personalized playlists, and enjoy curated recommendations tailored to your taste. Stream high-quality audio or download tracks for offline listening, perfect for on-the-go entertainment. The app’s sleek interface makes browsing artists, albums, and genres effortless, with intuitive controls for a seamless experience. Explore trending hits, classic tracks, or niche podcasts, and stay connected with your favorite creators. Spotify’s robust features include collaborative playlists, radio stations, and daily mixes, catering to every mood and occasion. Whether you’re a music enthusiast or podcast lover, the app delivers endless content with exceptional sound quality. Accessible on any device, Spotify transforms how you enjoy audio entertainment, making it easy to dive into your favorite sounds and discover new ones, anytime, anywhere.",
+    "size": "98 MB",
+    "reviews": "92M",
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 5520000 },
+      { "name": "2 star", "count": 4600000 },
+      { "name": "3 star", "count": 13800000 },
+      { "name": "4 star", "count": 27600000 },
+      { "name": "5 star", "count": 40480000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVa1sYTlhaCJelqNsb49vd5zQeMnSFxqC9HDlb3JCRzJNpy2118h_xLRUlaplj4CD0AV8&usqp=CAU",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 9,
+    "description": "Netflix is the world’s leading streaming service, offering thousands of TV shows, movies, documentaries, and original content. Watch award-winning series and films anytime, anywhere, with unlimited streaming. Download your favorite titles for offline viewing, perfect for travel or low-connectivity areas. The app’s intuitive interface makes browsing and discovering new content effortless, with personalized recommendations based on your viewing history. Explore a vast library, from timeless classics to trending releases, updated regularly with fresh titles. Netflix supports multiple devices, ensuring seamless entertainment on phones, tablets, or TVs. Create profiles for personalized experiences, share with family, or dive into kids’ content. With high-quality streaming and a user-friendly design, Netflix delivers immersive entertainment for all tastes. Whether binge-watching a series or enjoying a movie night, the app provides endless hours of captivating content, making it a must-have for streaming enthusiasts worldwide.",
+    "size": "112 MB",
+    "reviews": "105M",
+    "ratingAvg": 4.3,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 10500000 },
+      { "name": "2 star", "count": 7350000 },
+      { "name": "3 star", "count": 15750000 },
+      { "name": "4 star", "count": 31500000 },
+      { "name": "5 star", "count": 39900000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/YouTube_social_white_square_%282024%29.svg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "YouTube is the ultimate platform for watching and sharing videos, from music and gaming to tutorials and news. Subscribe to your favorite channels, create playlists, and explore billions of videos tailored to your interests. Upload your own content to become a creator, connecting with a global audience. The app offers offline viewing, personalized recommendations, and seamless streaming across devices. Discover trending content, live streams, or niche topics, and engage with comments or shares. YouTube’s versatile features include video quality options, subscriptions for updates, and tools for creators to monetize their work. Whether you’re learning a new skill, enjoying music videos, or staying updated with global events, YouTube delivers endless entertainment. Its user-friendly interface ensures easy navigation, making it a go-to platform for discovering, creating, and sharing videos that matter to you, anytime, anywhere.",
+    "size": "134 MB",
+    "reviews": "178M",
+    "ratingAvg": 4.4,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 10680000 },
+      { "name": "2 star", "count": 8900000 },
+      { "name": "3 star", "count": 26700000 },
+      { "name": "4 star", "count": 53400000 },
+      { "name": "5 star", "count": 78320000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 11,
+    "description": "Discord is a versatile platform for communities and friends to connect, communicate, and collaborate. Create customizable servers, join voice channels, share screens, or chat in organized text channels. Perfect for gaming, study groups, or friend circles, Discord offers direct messaging, video calls, and topic-based discussions. Its intuitive interface makes it easy to manage conversations, share media, and stay connected in real-time. Customize notifications, create bots for automation, and build invite-only spaces tailored to your needs. Whether you’re coordinating with teammates, hosting virtual hangouts, or engaging with global communities, Discord provides a dynamic environment for interaction. With robust features like screen sharing and voice chat, it’s ideal for both casual and professional use. Connect seamlessly across devices, making Discord a go-to app for fostering connections, sharing ideas, and building communities around shared interests, all in one vibrant, user-friendly platform.",
+    "size": "103 MB",
+    "reviews": "72M",
+    "ratingAvg": 4.5,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 3600000 },
+      { "name": "2 star", "count": 2880000 },
+      { "name": "3 star", "count": 10800000 },
+      { "name": "4 star", "count": 21600000 },
+      { "name": "5 star", "count": 33120000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-uiiYuy4QKYcMvQ4b-wC2EJLgjXGD6CRYQ&s",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 12,
+    "description": "Zoom is a leading platform for modern video communications, delivering crystal-clear audio and video for seamless meetings. Host unlimited video calls, share screens, and collaborate on virtual whiteboards with ease. Perfect for remote work, online classes, webinars, or virtual events, Zoom connects users across devices with reliable performance. Its intuitive interface supports chat, breakout rooms, and recording features, enhancing productivity and engagement. Whether connecting with colleagues, teaching students, or hosting social gatherings, Zoom offers secure, scalable solutions for all communication needs. Share files, annotate in real-time, and customize meeting settings for a tailored experience. With robust security features and cross-platform compatibility, Zoom ensures smooth, professional interactions. From small team huddles to large-scale webinars, the app empowers users to collaborate effectively, making it a trusted choice for global connectivity, productivity, and seamless communication in both personal and professional settings.",
+    "size": "87 MB",
+    "reviews": "58M",
+    "ratingAvg": 4.3,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 5800000 },
+      { "name": "2 star", "count": 4060000 },
+      { "name": "3 star", "count": 8700000 },
+      { "name": "4 star", "count": 17400000 },
+      { "name": "5 star", "count": 22040000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/250px-Reddit_Logo_Icon.svg.png",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 13,
+    "description": "Reddit is a vast network of communities where users explore interests, hobbies, and passions through subreddits. Join discussions, share content, and vote on posts to shape conversations. Discover breaking news, viral memes, and niche topics, from gaming to science. Connect with millions sharing stories, knowledge, and humor in real-time. The app’s intuitive interface makes browsing, commenting, and posting seamless, with personalized feeds tailored to your preferences. Engage in AMAs, follow trending topics, or create your own subreddit to build a community. Reddit’s diverse platform supports authentic, user-driven content, offering a space for every interest. Whether you’re seeking entertainment, insights, or connection, the app delivers endless content with a vibrant community spirit. From casual browsing to deep discussions, Reddit empowers users to dive into their passions, share ideas, and stay connected with global conversations on virtually any topic imaginable.",
+    "size": "76 MB",
+    "reviews": "64M",
+    "ratingAvg": 4.2,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 7680000 },
+      { "name": "2 star", "count": 5120000 },
+      { "name": "3 star", "count": 9600000 },
+      { "name": "4 star", "count": 19200000 },
+      { "name": "5 star", "count": 22400000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/280x280_RS/1c/b5/61/1cb561c8e7b9c709f78d110a4b5f0863.jpg",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 14,
+    "description": "Pinterest is a visual discovery platform for finding and saving ideas that inspire you. Explore recipes, home decor, fashion, and DIY projects through millions of images and videos. Organize pins into boards to plan trips, weddings, or creative projects, and create mood boards for inspiration. Discover trending ideas, shop products, and turn your visions into reality with ease. The app’s intuitive design makes browsing and saving seamless, offering personalized recommendations based on your interests. Whether you’re planning a meal, redecorating, or seeking style tips, Pinterest provides endless creative possibilities. Connect with a global community sharing ideas, from budget-friendly crafts to luxury designs. Its user-friendly interface supports quick searches and curated feeds, making it perfect for personal or professional inspiration. Dive into a world of creativity, plan your next project, and bring your ideas to life with Pinterest’s dynamic tools.",
+    "size": "69 MB",
+    "reviews": "51M",
+    "ratingAvg": 4.5,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 2550000 },
+      { "name": "2 star", "count": 2040000 },
+      { "name": "3 star", "count": 7650000 },
+      { "name": "4 star", "count": 15300000 },
+      { "name": "5 star", "count": 23460000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOOv3QbE5toYZQdOJBkZUdkjM7wvFUHgBsg&s",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 15,
+    "description": "Shazam is a powerful music identification app that instantly recognizes songs playing around you. Tap the Shazam button to discover artists, lyrics, videos, and playlists with a single touch. Save your discoveries to Spotify, Apple Music, or YouTube, and explore global charts to stay updated on trending music. Follow along with time-synced lyrics for an immersive experience. Whether in a cafe, car, or store, Shazam delivers quick, accurate results, connecting you to the music you love. Its sleek interface makes navigation effortless, with features like offline mode and song history for easy access. Discover new tracks, revisit old favorites, or share your finds with friends. Shazam’s seamless integration with music platforms enhances your listening experience, making it a must-have for music lovers. Explore, identify, and enjoy music anytime, anywhere, with Shazam’s fast and reliable technology at your fingertips.",
+    "size": "42 MB",
+    "reviews": "47M",
+    "ratingAvg": 4.7,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 1410000 },
+      { "name": "2 star", "count": 1410000 },
+      { "name": "3 star", "count": 4700000 },
+      { "name": "4 star", "count": 11750000 },
+      { "name": "5 star", "count": 27730000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA",
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "id": 16,
+    "description": "Duolingo is the world’s leading language-learning app, offering courses in over 30 languages, including Spanish, French, German, and more. Its bite-sized lessons make learning fun and effective, using gamified exercises to build vocabulary, grammar, and pronunciation skills. Track your progress, earn rewards, and compete with friends to stay motivated. From beginners to advanced learners, Duolingo caters to all levels with engaging, interactive content. Practice speaking, listening, and writing in a user-friendly interface designed for daily learning. Whether you’re preparing for travel, career growth, or personal enrichment, the app makes language acquisition accessible and enjoyable. With a focus on retention, Duolingo reinforces lessons to ensure long-term fluency. Join millions worldwide mastering new languages through quick, effective sessions. Its playful approach, combined with robust tracking and community features, makes Duolingo a top choice for language enthusiasts, offering a fun, rewarding path to fluency anytime, anywhere.",
+    "size": "54 MB",
+    "reviews": "82M",
+    "ratingAvg": 4.6,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 3280000 },
+      { "name": "2 star", "count": 2460000 },
+      { "name": "3 star", "count": 12300000 },
+      { "name": "4 star", "count": 24600000 },
+      { "name": "5 star", "count": 39360000 }
+    ]
+  },
+  {
+    "image": "https://yt3.googleusercontent.com/kpfvYzDJ8pT6S8SuXGf3PKM4jGB7UYqTfyp3aNbRAqoMVMX4qb4lWCWk1ezhf-olBhYYJCnBsA=s900-c-k-c0x00ffffff-no-rj",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 17,
+    "description": "Uber connects riders with drivers for reliable transportation anytime, anywhere. Request a ride through the app, get upfront pricing, and track your driver in real-time. Pay seamlessly with digital payments, ensuring a hassle-free experience. Available in cities worldwide, Uber offers affordable rides for daily commutes, airport trips, or special occasions. The app’s intuitive interface provides ride history, estimated arrival times, and driver details for transparency. Choose from various ride options, from budget-friendly to premium, to suit your needs. Uber’s safety features, like driver verification and trip sharing, ensure peace of mind. Whether heading to work, exploring a new city, or enjoying a night out, Uber delivers fast, convenient travel. With global availability and a user-friendly design, the app makes transportation accessible and efficient. Book a ride, track your journey, and arrive at your destination with ease, all within Uber’s trusted platform.",
+    "size": "91 MB",
+    "reviews": "76M",
+    "ratingAvg": 4.1,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 9120000 },
+      { "name": "2 star", "count": 7600000 },
+      { "name": "3 star", "count": 15200000 },
+      { "name": "4 star", "count": 22800000 },
+      { "name": "5 star", "count": 21280000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 18,
+    "description": "Canva is a free graphic design platform empowering users to create stunning visuals without experience. Design social media graphics, presentations, posters, or documents using thousands of templates, images, fonts, and illustrations. Its drag-and-drop interface simplifies the creative process, making professional-quality design accessible to all. Customize layouts, add text, or incorporate media to craft unique content for personal or business needs. Canva’s vast library offers endless inspiration, from social posts to marketing materials. Collaborate with teams in real-time, share designs, or export in various formats. Whether creating invitations, logos, or slideshows, the app’s intuitive tools ensure seamless creativity. Perfect for beginners and professionals alike, Canva delivers versatile, high-quality results. Explore trending designs, experiment with colors, and bring your ideas to life effortlessly. With its user-friendly interface and robust features, Canva transforms design into an approachable, fun experience for everyone, anywhere.",
+    "size": "79 MB",
+    "reviews": "53M",
+    "ratingAvg": 4.7,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": 1590000 },
+      { "name": "2 star", "count": 1590000 },
+      { "name": "3 star", "count": 5300000 },
+      { "name": "4 star", "count": 13250000 },
+      { "name": "5 star", "count": 31270000 }
+    ]
+  },
+  {
+    "image": "https://pbs.twimg.com/profile_images/1921980469052375040/E9jrHsYu_400x400.png",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 19,
+    "description": "Airbnb connects travelers with unique accommodations and experiences in over 191 countries. Book homes, apartments, castles, or treehouses from local hosts for a personalized stay. Discover local experiences, from cultural tours to adventure activities, and explore destinations like a resident. The app’s intuitive interface simplifies browsing, booking, and communicating with hosts, offering transparent pricing and reviews. Whether seeking budget-friendly rooms or luxury retreats, Airbnb caters to all travel styles. Save favorites, plan trips, and access bookings on the go with seamless navigation. The platform’s global reach ensures diverse options, from urban apartments to countryside escapes. With secure payments and host verification, Airbnb prioritizes safety and trust. Find inspiration, book your next adventure, and immerse yourself in local culture. From weekend getaways to long-term stays, Airbnb transforms travel by offering unique, memorable experiences tailored to your preferences, anywhere in the world.",
+    "size": "118 MB",
+    "reviews": "68M",
+    "ratingAvg": 4.4,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": 4080000 },
+      { "name": "2 star", "count": 3400000 },
+      { "name": "3 star", "count": 10200000 },
+      { "name": "4 star", "count": 20400000 },
+      { "name": "5 star", "count": 29920000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/r9zF77jorOmkaRlXnvsLiuVQ3p_gYW8y7x_UL-COoH9PxaTUEMbW1wiwS0z1n1Q31Q",
+    "title": "Adobe Photoshop Express",
+    "companyName": "Adobe Inc.",
+    "id": 20,
+    "description": "Adobe Photoshop Express is a free mobile photo editor delivering powerful, easy-to-use tools for stunning edits on the go. Apply filters, crop images, remove blemishes, or adjust brightness and contrast with precision. Add text, create collages, or enhance photos with creative effects, making professional-quality editing accessible to everyone. Share your creations directly to social media or save them for later. The app’s intuitive interface simplifies complex edits, offering one-tap enhancements and customizable options. Perfect for quick touch-ups or detailed projects, Photoshop Express supports a wide range of formats. Explore stickers, frames, and overlays to personalize your photos. Whether editing selfies, landscapes, or graphics, the app delivers versatile tools for all skill levels. With seamless integration and a sleek design, Adobe Photoshop Express empowers users to transform photos effortlessly, creating polished, shareable content anytime, anywhere, for personal or professional use.",
+    "size": "96 MB",
+    "reviews": "49M",
+    "ratingAvg": 4.5,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": 2450000 },
+      { "name": "2 star", "count": 1960000 },
+      { "name": "3 star", "count": 7350000 },
+      { "name": "4 star", "count": 14700000 },
+      { "name": "5 star", "count": 22540000 }
+    ]
+  }
+]

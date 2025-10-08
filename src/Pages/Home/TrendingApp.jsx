@@ -5,7 +5,7 @@ const TrendingApp = ({app}) => {
     // console.log(app);
     const {image,title,downloads,ratings} = app
     return (
-    <div className="card shadow-sm w-full">
+    <div className="card shadow-sm w-full duration-1000 hover:scale-103 hover:shadow-xl cursor-pointer">
                 <figure className='p-2'>
                     <img
                     src={image}

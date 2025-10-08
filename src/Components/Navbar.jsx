@@ -8,15 +8,9 @@ import { Link, NavLink } from "react-router";
 
 const Navbar = () => {
     const links = <>
-          <NavLink to='/' className={({ isActive }) =>
-          isActive ? "text-[#632EE3] font-bold flex items-center gap-1" : ""
-        }><IoHomeOutline />Home</NavLink>
-          <NavLink to='' className={({ isActive }) =>
-          isActive ? "text-[#632EE3] font-bold flex items-center gap-1" : "text-gray-200"
-        }><AiOutlineAppstore />Apps</NavLink>
-          <NavLink to='' className={({ isActive }) =>
-          isActive ? "text-[#632EE3] font-bold flex items-center gap-1" : ""
-        }><MdInstallDesktop />Installation</NavLink>
+          <NavLink to='/' className={({ isActive }) => isActive ? "flex items-center gap-1 text-[#632EE3] font-bold border-b-2 border-[#632EE3]" : "flex items-center gap-1 font-bold"}><IoHomeOutline />Home</NavLink>
+          <NavLink to='/allapps' className={({ isActive }) => isActive ? "flex items-center gap-1 text-[#632EE3] font-bold border-b-2 border-[#632EE3]" : "flex items-center gap-1 font-bold"}><AiOutlineAppstore />Apps</NavLink>
+          <NavLink to='/installapps' className={({ isActive }) => isActive ? "flex items-center gap-1 text-[#632EE3] font-bold border-b-2 border-[#632EE3]" : "flex items-center gap-1 font-bold"}><MdInstallDesktop />Installation</NavLink>
     </>
   return (
     <div className="navbar bg-base-100 md:w-11/12 mx-auto">
