@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY7RzR5YAvGRidk4X1i7rl9fB3xfNKLnIbFuZxZGPKdYfXS8",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "id": 1,
+    "description": "ChatGPT is the official app from OpenAI that brings the power of artificial intelligence to your fingertips. Get instant answers, find creative inspiration, learn something new, and boost your productivity. Ask questions, generate content, brainstorm ideas, and have natural conversations with advanced AI. Experience the future of intelligent assistance on your mobile device.",
+    "size": 48000000,
+    "reviews": 2800000,
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 84000 },
+      { "name": "2 star", "count": 84000 },
+      { "name": "3 star", "count": 280000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 1652000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht",
+    "title": "BeReal",
+    "companyName": "BeReal",
+    "id": 2,
+    "description": "BeReal is an authentic social media app where you share real moments with friends. Once daily, everyone receives a notification to capture and share what they're doing at that exact moment. No filters, no editing, just real life. Connect with friends through genuine, unpolished moments. Experience social media without the pressure of perfection and curated content.",
+    "size": 52000000,
+    "reviews": 3200000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 384000 },
+      { "name": "2 star", "count": 320000 },
+      { "name": "3 star", "count": 480000 },
+      { "name": "4 star", "count": 960000 },
+      { "name": "5 star", "count": 1056000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/SzEK4iqXsHPBC_mJZi3ACh9hhCL0PEcKVz7CPGVqWHYkqXK_ESjMXXhN8J5RFq0VVoU",
+    "title": "Threads",
+    "companyName": "Instagram",
+    "id": 3,
+    "description": "Threads is Meta's text-based conversation app where you can share your thoughts, follow creators and topics you love, and build a following of your own. Join communities discussing everything from the topics you care about today to tomorrow's trends. Connect with friends, share updates, and engage in meaningful conversations in a positive environment.",
+    "size": 67000000,
+    "reviews": 4500000,
+    "ratingAvg": 4.0,
+    "downloads": 150000000,
+    "ratings": [
+      { "name": "1 star", "count": 675000 },
+      { "name": "2 star", "count": 540000 },
+      { "name": "3 star", "count": 675000 },
+      { "name": "4 star", "count": 1350000 },
+      { "name": "5 star", "count": 1260000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/0SAFn-mRhhkZ-dYCd8sF5rE_JXgYFLdCkVXm2yaXHjQXsE-Cq6fYkC5jYXRiJxZBwmQ",
+    "title": "Lemon8",
+    "companyName": "Lemon8 Team",
+    "id": 4,
+    "description": "Lemon8 is a lifestyle community where you can discover and share authentic recommendations. Explore fashion, beauty, food, travel, wellness, and home decor inspiration from real people. Create aesthetic posts with easy-to-use editing tools, follow creators you love, and build your own community. Find inspiration for every aspect of your lifestyle in one beautiful app.",
+    "size": 89000000,
+    "reviews": 1800000,
+    "ratingAvg": 4.6,
+    "downloads": 30000000,
+    "ratings": [
+      { "name": "1 star", "count": 72000 },
+      { "name": "2 star", "count": 54000 },
+      { "name": "3 star", "count": 180000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 1044000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/9XKD5S7rwQ6FiPXSyp8XfHcRqgG5X6-8cZ8f4SqJxZ0gR9xqB5LZ5lN7rP0sN8lL6Xg",
+    "title": "Bluesky Social",
+    "companyName": "Bluesky PBLLC",
+    "id": 5,
+    "description": "Bluesky is a new social network for microblogging. Post updates, share photos, and connect with communities around your interests. Built on open protocols, Bluesky gives you control over your social experience. Discover trending topics, follow fascinating people, and engage in thoughtful conversations. Experience social media designed for genuine connection and meaningful interactions without algorithmic manipulation.",
+    "size": 44000000,
+    "reviews": 980000,
+    "ratingAvg": 4.5,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 49000 },
+      { "name": "2 star", "count": 39200 },
+      { "name": "3 star", "count": 98000 },
+      { "name": "4 star", "count": 245000 },
+      { "name": "5 star", "count": 548800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8xHCO8p6E5R7v7B5q5K3lK5LpZ0lN6rK3q2Z5q5K3lK5LpZ0lN6rK3q2Z5q5K3lK5Lp",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 6,
+    "description": "CapCut is a free all-in-one video editing app that helps you create incredible videos. Add music, text, stickers, effects, and transitions with professional-quality tools. Use AI-powered features for auto-captions, background removal, and color grading. Perfect for TikTok, Instagram Reels, and YouTube content. Edit like a pro with intuitive controls and trending templates.",
+    "size": 156000000,
+    "reviews": 8900000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 356000 },
+      { "name": "2 star", "count": 267000 },
+      { "name": "3 star", "count": 890000 },
+      { "name": "4 star", "count": 2225000 },
+      { "name": "5 star", "count": 5162000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA",
+    "title": "Character.AI",
+    "companyName": "Character.AI",
+    "id": 7,
+    "description": "Character.AI lets you chat with AI characters ranging from historical figures to fictional personalities. Create your own AI characters, have engaging conversations, get personalized assistance, and explore endless creative possibilities. Whether you need help with homework, want to practice languages, or just have fun chatting, Character.AI offers unique interactive experiences powered by advanced artificial intelligence technology.",
+    "size": 73000000,
+    "reviews": 2100000,
+    "ratingAvg": 4.3,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 147000 },
+      { "name": "2 star", "count": 126000 },
+      { "name": "3 star", "count": 315000 },
+      { "name": "4 star", "count": 630000 },
+      { "name": "5 star", "count": 882000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/pcFIBxNqT-1Aq-uqKi8H-hv1s1dJb0P8cZ0lN6rK3q2Z5q5K3lK5LpZ0lN6rK3q2Z5q",
+    "title": "Temu",
+    "companyName": "Temu",
+    "id": 8,
+    "description": "Temu is your destination for affordable shopping with millions of products. Shop fashion, electronics, home goods, beauty, and more at unbeatable prices. Discover daily deals, flash sales, and exclusive offers. Enjoy secure checkout, fast shipping, and excellent customer service. Browse endless categories, save big on quality items, and experience shopping made fun with gamified features and rewards.",
+    "size": 112000000,
+    "reviews": 5600000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 336000 },
+      { "name": "2 star", "count": 280000 },
+      { "name": "3 star", "count": 840000 },
+      { "name": "4 star", "count": 1680000 },
+      { "name": "5 star", "count": 2464000 }
+    ]
+  }
+]

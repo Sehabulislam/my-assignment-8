@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo",
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "id": 1,
+    "description": "Instagram is a social media platform where you can share photos and videos with friends and followers. Discover content from creators worldwide, explore trending topics, connect through direct messages, and express yourself through Stories and Reels. Join millions of users sharing their moments daily.",
+    "size": 45000000,
+    "reviews": 128000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 12800000 },
+      { "name": "2 star", "count": 8960000 },
+      { "name": "3 star", "count": 19200000 },
+      { "name": "4 star", "count": 32000000 },
+      { "name": "5 star", "count": 55040000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 2,
+    "description": "TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy through entertaining, informative, and authentic content. Create engaging videos with music, filters, and effects. Discover trending challenges and connect with a global community of creators.",
+    "size": 150000000,
+    "reviews": 95000000,
+    "ratingAvg": 4.5,
+    "downloads": 3500000000,
+    "ratings": [
+      { "name": "1 star", "count": 5700000 },
+      { "name": "2 star", "count": 4750000 },
+      { "name": "3 star", "count": 14250000 },
+      { "name": "4 star", "count": 28500000 },
+      { "name": "5 star", "count": 41800000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 3,
+    "description": "WhatsApp Messenger is a free messaging app available for Android and other smartphones. Send text messages, voice messages, make voice and video calls, and share photos, documents, and locations with your contacts. End-to-end encryption keeps your conversations secure and private with friends and family worldwide.",
+    "size": 62000000,
+    "reviews": 156000000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 15600000 },
+      { "name": "2 star", "count": 12480000 },
+      { "name": "3 star", "count": 23400000 },
+      { "name": "4 star", "count": 39000000 },
+      { "name": "5 star", "count": 65520000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 4,
+    "description": "Snapchat is the most fun way to share the moment with friends and family. Express yourself with Lenses, Filters, Bitmoji and more. Share snaps that disappear, create Stories to relive moments, and discover content from publishers worldwide. Chat with friends using text, voice notes, and video calls instantly.",
+    "size": 128000000,
+    "reviews": 89000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10680000 },
+      { "name": "2 star", "count": 8900000 },
+      { "name": "3 star", "count": 17800000 },
+      { "name": "4 star", "count": 26700000 },
+      { "name": "5 star", "count": 24920000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5,
+    "description": "Facebook helps you connect and share with the people in your life. Keep up with friends and family, discover what's happening in the world, share updates and photos, watch live videos, and explore content that interests you. Join groups, follow pages, and participate in communities that matter to you most.",
+    "size": 85000000,
+    "reviews": 142000000,
+    "ratingAvg": 3.8,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 28400000 },
+      { "name": "2 star", "count": 21300000 },
+      { "name": "3 star", "count": 28400000 },
+      { "name": "4 star", "count": 35500000 },
+      { "name": "5 star", "count": 28400000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
+    "title": "Twitter",
+    "companyName": "X Corp.",
+    "id": 6,
+    "description": "Twitter is your go-to social media app for breaking news, entertainment, sports, and politics. Follow your interests, tweet your thoughts, engage in conversations, and stay updated with real-time information. Join millions discussing trending topics, sharing opinions, and connecting with people worldwide through short, impactful messages and multimedia content.",
+    "size": 73000000,
+    "reviews": 78000000,
+    "ratingAvg": 3.9,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 15600000 },
+      { "name": "2 star", "count": 11700000 },
+      { "name": "3 star", "count": 15600000 },
+      { "name": "4 star", "count": 19500000 },
+      { "name": "5 star", "count": 15600000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "Telegram is a messaging app with a focus on speed and security. Send messages, photos, videos, and files of any type. Create group chats with up to 200,000 members, share large videos, and access your messages from multiple devices. Cloud-based storage ensures your data is always accessible and synchronized seamlessly.",
+    "size": 56000000,
+    "reviews": 67000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2680000 },
+      { "name": "2 star", "count": 2010000 },
+      { "name": "3 star", "count": 6700000 },
+      { "name": "4 star", "count": 16750000 },
+      { "name": "5 star", "count": 38860000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/vvUZMLBdLv8MYLJF7VZd2af1AAJkH3lCXgYAJXG5g3P8eBVNZGmHX7J8S1UEBo5K4g",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 8,
+    "description": "Spotify is a digital music service that gives you access to millions of songs, podcasts, and videos from artists worldwide. Discover new music, create playlists, listen to personalized recommendations, and enjoy your favorite tracks offline. Stream music anytime, anywhere with exceptional sound quality and user-friendly interface for ultimate entertainment.",
+    "size": 98000000,
+    "reviews": 92000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5520000 },
+      { "name": "2 star", "count": 4600000 },
+      { "name": "3 star", "count": 13800000 },
+      { "name": "4 star", "count": 27600000 },
+      { "name": "5 star", "count": 40480000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 9,
+    "description": "Netflix is the world's leading streaming entertainment service with thousands of TV shows, movies, documentaries, and more. Watch as much as you want, anytime you want. Discover award-winning series, films, and originals. Download your favorite content to watch offline. New titles added regularly to keep you entertained with unlimited streaming.",
+    "size": 112000000,
+    "reviews": 105000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10500000 },
+      { "name": "2 star", "count": 7350000 },
+      { "name": "3 star", "count": 15750000 },
+      { "name": "4 star", "count": 31500000 },
+      { "name": "5 star", "count": 39900000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "YouTube is the home for videos that matter to you. Watch billions of videos including music videos, news, gaming content, beauty tutorials, and more. Subscribe to your favorite channels, create playlists, and share content with friends. Upload your own videos and become a creator. Experience entertainment on any device, anywhere.",
+    "size": 134000000,
+    "reviews": 178000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10680000 },
+      { "name": "2 star", "count": 8900000 },
+      { "name": "3 star", "count": 26700000 },
+      { "name": "4 star", "count": 53400000 },
+      { "name": "5 star", "count": 78320000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/qPmqJ_F10YlRXIDpAKvzTXvjXgVXxKPCvVFpXOTuKVvLuqKSwCYdQqNBMSm5XMT4Tg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 11,
+    "description": "Discord is your place to talk with communities and friends. Create invite-only spaces where you belong, join voice channels to hang out, share screens, and watch videos together. Organize conversations into topics, send direct messages, and customize your server. Perfect for gaming communities, study groups, and friend circles worldwide.",
+    "size": 103000000,
+    "reviews": 72000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 3600000 },
+      { "name": "2 star", "count": 2880000 },
+      { "name": "3 star", "count": 10800000 },
+      { "name": "4 star", "count": 21600000 },
+      { "name": "5 star", "count": 33120000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/3_l_VG_3GP1KH7c6LdT-4G1c-NI6fCHRQkSu3hLQKCHKz5tH3f7LQFf3R5VCNQP3Cw",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 12,
+    "description": "Zoom is the leader in modern enterprise video communications. Host unlimited video meetings with crystal-clear audio and video quality. Share screens, collaborate on virtual whiteboards, and chat with participants. Perfect for remote work, online classes, webinars, and virtual events. Connect with anyone, anywhere across all devices seamlessly and securely.",
+    "size": 87000000,
+    "reviews": 58000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 5800000 },
+      { "name": "2 star", "count": 4060000 },
+      { "name": "3 star", "count": 8700000 },
+      { "name": "4 star", "count": 17400000 },
+      { "name": "5 star", "count": 22040000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 13,
+    "description": "Reddit is a network of communities where people can dive into their interests, hobbies, and passions. Join communities called subreddits, participate in discussions, share content, and vote on posts. Discover breaking news, entertainment, sports, viral content, and more. Connect with millions of people sharing stories, memes, and knowledge on every topic imaginable.",
+    "size": 76000000,
+    "reviews": 64000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 7680000 },
+      { "name": "2 star", "count": 5120000 },
+      { "name": "3 star", "count": 9600000 },
+      { "name": "4 star", "count": 19200000 },
+      { "name": "5 star", "count": 22400000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Obs9eMKh-pbTXvEJBuNQMSQnKsZMQo6QzRVGXRwlKP9KP_vWh_XNAW8zj4bPUlJqPQ",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 14,
+    "description": "Pinterest helps you discover and do what you love. Find recipes, home ideas, style inspiration, and other ideas to try. Save pins to boards to organize your ideas, create mood boards, and plan projects. Explore millions of images and videos to inspire your creativity. Shop products, discover trends, and turn inspiration into reality daily.",
+    "size": 69000000,
+    "reviews": 51000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 2550000 },
+      { "name": "2 star", "count": 2040000 },
+      { "name": "3 star", "count": 7650000 },
+      { "name": "4 star", "count": 15300000 },
+      { "name": "5 star", "count": 23460000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6UgEjh8Xuts4nwdWzTnWH8QtLuHqRMUB7dp24JYVE2xcYzq4HA8hFfcAbU-R-PC_9uA1",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 15,
+    "description": "Shazam is one of the world's most popular apps for music identification. Discover, artists, lyrics, videos and playlists instantly. Tap the Shazam button to identify songs playing around you. Save your discoveries to Spotify, Apple Music, or YouTube. Explore charts to see what's trending worldwide. Follow along with time-synced lyrics while enjoying music.",
+    "size": 42000000,
+    "reviews": 47000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 1410000 },
+      { "name": "2 star", "count": 1410000 },
+      { "name": "3 star", "count": 4700000 },
+      { "name": "4 star", "count": 11750000 },
+      { "name": "5 star", "count": 27730000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/emmbClh_hm0WpWZqJ0X59B8Pz1mKoB9HVLkYMktxhGE6NcspqOeYDqLdYjcuhSt0Tw",
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "id": 16,
+    "description": "Duolingo is the world's most popular way to learn a language. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, and English. Bite-sized lessons make learning fun and effective. Track your progress, compete with friends, and achieve fluency through gamification.",
+    "size": 54000000,
+    "reviews": 82000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 3280000 },
+      { "name": "2 star", "count": 2460000 },
+      { "name": "3 star", "count": 12300000 },
+      { "name": "4 star", "count": 24600000 },
+      { "name": "5 star", "count": 39360000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/TQR6Vdmnpjz8U3B4Hmaz2Y8hjLdP_AxLH8u8UQpL0Wa6MQ3HWD2QRAzL_jWG2TgY8g",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 17,
+    "description": "Uber provides rides when you need them, day or night. Request a ride using the app and let a driver take you wherever you need to go. Get upfront pricing, track your driver in real-time, and pay seamlessly through the app. Available in cities worldwide, Uber connects you with reliable transportation quickly and affordably.",
+    "size": 91000000,
+    "reviews": 76000000,
+    "ratingAvg": 4.1,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 9120000 },
+      { "name": "2 star", "count": 7600000 },
+      { "name": "3 star", "count": 15200000 },
+      { "name": "4 star", "count": 22800000 },
+      { "name": "5 star", "count": 21280000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Zy7jRkBE0vAQxB-5UXrUNpOwRqKKwG9bWqLWRc2lf9s7M-l3-bFOVfLZQNz1YxOeKUQ",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 18,
+    "description": "Canva is a free graphic design platform that allows you to create social media graphics, presentations, posters, documents, and other visual content. Access thousands of templates, images, fonts, and illustrations. Design like a pro with easy drag-and-drop tools. Create stunning visuals for personal or professional use without any design experience required whatsoever.",
+    "size": 79000000,
+    "reviews": 53000000,
+    "ratingAvg": 4.7,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 1590000 },
+      { "name": "2 star", "count": 1590000 },
+      { "name": "3 star", "count": 5300000 },
+      { "name": "4 star", "count": 13250000 },
+      { "name": "5 star", "count": 31270000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/BkRfMfIRPR9hUnmIYGDgHHKjow-g18-ouP6B2ko__VnyUHSi1spcc78UtZ4sVUtBH4g",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 19,
+    "description": "Airbnb opens the door to interesting homes and experiences worldwide. Book unique places to stay from local hosts in over 191 countries. Find apartments, houses, castles, treehouses, and more for your next trip. Discover experiences hosted by locals, explore neighborhoods like a resident, and travel with comfort. Your adventure starts with finding the perfect accommodation.",
+    "size": 118000000,
+    "reviews": 68000000,
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 4080000 },
+      { "name": "2 star", "count": 3400000 },
+      { "name": "3 star", "count": 10200000 },
+      { "name": "4 star", "count": 20400000 },
+      { "name": "5 star", "count": 29920000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/o4Z1bQ4N6qmKE5xJLvYlbp_aL_qB5N2y8xZ-iJ0vLqKrD2xN5LZ3rN0lP8xI9L7rLqKr",
+    "title": "Adobe Photoshop Express",
+    "companyName": "Adobe Inc.",
+    "id": 20,
+    "description": "Adobe Photoshop Express is a free mobile photo editor for quick, easy, and powerful editing on the go. Create incredible photos anywhere with easy-to-use tools. Apply filters, crop images, remove blemishes, adjust brightness and contrast. Add text, create collages, and share your creations on social media. Professional-quality photo editing made accessible for everyone.",
+    "size": 96000000,
+    "reviews": 49000000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 2450000 },
+      { "name": "2 star", "count": 1960000 },
+      { "name": "3 star", "count": 7350000 },
+      { "name": "4 star", "count": 14700000 },
+      { "name": "5 star", "count": 22540000 }
+    ]
+  }
+]
