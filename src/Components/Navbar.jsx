@@ -49,7 +49,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end gap-2 text-white">
-        <Link to='https://github.com/Sehabulislam' className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white"><FaGithub className="w-5 h-5" />Contribute</Link>
+        <Link to='https://github.com/Sehabulislam' className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white hover:shadow-2xl hover:scale-102"><FaGithub className="w-5 h-5" />Contribute</Link>
       </div>
     </div>
   );

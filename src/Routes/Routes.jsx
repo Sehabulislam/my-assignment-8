@@ -7,6 +7,7 @@ import AllApps from '../Pages/AllApp/AllApps';
 import InstallApps from '../Pages/InstallApps/InstallApps';
 import Loading from '../Loading';
 import AppDetails from '../Pages/AppDetails/AppDetails';
+import AppNotFound from '../Pages/ErrorPage/AppNotFound';
 
 
 export const router = createBrowserRouter([
@@ -37,8 +38,12 @@ export const router = createBrowserRouter([
         },
         {
           path : '*',
-          Component : ErrorPage,
+          Component : AppNotFound,
         }
     ]
   },
+  {
+    path : '*',
+    Component : ErrorPage,
+  }
 ]);
