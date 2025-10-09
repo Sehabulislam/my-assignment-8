@@ -38,12 +38,8 @@ export const router = createBrowserRouter([
         },
         {
           path : '*',
-          Component : AppNotFound,
+          Component : ErrorPage,
         }
     ]
   },
-  {
-    path : '*',
-    Component : ErrorPage,
-  }
 ]);

@@ -1,6 +1,7 @@
 import React from "react";
 import { useLoaderData } from "react-router";
 import SingleApp from "./SingleApp";
+import { RiApps2AiFill } from "react-icons/ri";
 
 const AllApps = () => {
   const allAppsData = useLoaderData();
@@ -10,7 +11,7 @@ const AllApps = () => {
       <div className="flex flex-col justify-center items-center mt-5 md:mt-10">
         <div className="flex flex-col justify-center items-center">
           <h2 className="text-4xl font-bold flex items-center gap-3 m-2">
-            Our All Applications
+            Our All Applications<RiApps2AiFill />
           </h2>
           <p className="text-gray-400 md:m-2 text-center">Explore All Apps on the Market developed by us. We code for Millions</p>
         <div className="flex justify-between items-center md:gap-210">
