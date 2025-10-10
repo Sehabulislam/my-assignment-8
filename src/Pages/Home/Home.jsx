@@ -5,6 +5,8 @@ import { Link} from 'react-router';
 import Loading from '../../Loading';
 import ErrorPage from '../ErrorPage/ErrorPage';
 import useApps from '../../Hooks/useApps';
+import Play from '../../assets/appstore (2).png'
+import App from '../../assets/appstore (1).png'
 
 const Home = () => {
     const {allAppsData, loading, error} = useApps();
@@ -24,8 +26,8 @@ const Home = () => {
                 <p className='max-w-210 text-center text-gray-400'>At <span className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold'>HERO.IO</span> , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
             </div>
             <div className='flex items-center gap-2 '>
-                <Link to='https://play.google.com/store/apps' className='btn flex'><img src="/src/assets/appstore (2).png" className='w-5' />Google Play</Link>
-                <Link to='https://www.apple.com/app-store/' className='btn flex'><img src="/src/assets/appstore (1).png" className='w-5' />App Store</Link>
+                <Link to='https://play.google.com/store/apps' className='btn flex'><img src={Play} className='w-5' />Google Play</Link>
+                <Link to='https://www.apple.com/app-store/' className='btn flex'><img src={App} className='w-5' />App Store</Link>
             </div>
             <div className=' md:w-230'>
                 <img src="/src/assets/hero.png" alt="" />

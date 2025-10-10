@@ -22,7 +22,7 @@ const AppDetail = ({singleApp}) => {
             </div>
             <div className='flex flex-col md:flex-row justify-center md:justify-start items-center gap-8 border-b-2 border-gray-300 py-5'>
                 <div className='shadow-sm rounded-lg'>
-                    <img src={image} alt="" className='w-40 md:w-60 rounded-2xl p-2'/>
+                    <img src={image} alt="" className='w-40 md:w-60 rounded-2xl p-1'/>
                 </div>
                  <div className='space-y-3'>
                         <div className='border-b-2 border-gray-300'>

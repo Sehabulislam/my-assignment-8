@@ -5,6 +5,7 @@ import { FaGithub } from "react-icons/fa";
 import { IoHomeOutline } from "react-icons/io5";
 import { MdInstallDesktop } from "react-icons/md";
 import { Link, NavLink } from "react-router";
+import Logo from '../assets/logo.png'
 
 const Navbar = () => {
     const links = <>
@@ -40,7 +41,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div>
-            <Link to='/' className=" flex items-center text-3xl font-extrabold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><img src="/src/assets/logo.png" className="w-10"/>HERO.IO</Link>
+            <Link to='/' className=" flex items-center text-3xl font-extrabold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><img src={Logo} className="w-10"/>HERO.IO</Link>
         </div>
       </div>
       <div className="navbar-center hidden md:flex">
