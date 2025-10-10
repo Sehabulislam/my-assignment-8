@@ -1,11 +1,11 @@
 import React from 'react';
-import { RiseLoader } from 'react-spinners';
+import Logo from './assets/logo.png'
+import { GridLoader } from 'react-spinners';
 
 const Loading = () => {
     return (
-        <div className='flex justify-center items-center mt-50'>
-            <RiseLoader/>
-            <h2>adhanvaajriaonvfana</h2>
+        <div className='flex justify-center items-center my-50'>
+            <GridLoader/>
         </div>
     );
 };

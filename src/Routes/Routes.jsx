@@ -19,21 +19,19 @@ export const router = createBrowserRouter([
         {
             index : true,
             path:'/',
-            loader : () => fetch('/trendingApp.json') ,
             Component : Home ,
         },
         {
           path : '/allapps',
-          loader :  () => fetch('/allAppsData.json'),
           Component : AllApps,
         },
         {
           path : '/appDetails/:id',
-          loader :  () => fetch('/allAppsData.json'),
           Component : AppDetails ,
         },
         {
           path : '/installapps',
+          loader :  () => fetch('/allAppsData.json'),
           Component : InstallApps,
         },
         {

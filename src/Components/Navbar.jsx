@@ -39,8 +39,8 @@ const Navbar = () => {
             {links}
           </ul>
         </div>
-        <div className="flex items-center">
-            <a className="btn btn-ghost text-2xl font-extrabold  bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><img src="/src/assets/logo.png" className="w-10"/>HERO.IO</a>
+        <div>
+            <Link to='/' className=" flex items-center text-3xl font-extrabold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><img src="/src/assets/logo.png" className="w-10"/>HERO.IO</Link>
         </div>
       </div>
       <div className="navbar-center hidden md:flex">

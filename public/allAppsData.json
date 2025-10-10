@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png",
+    "image": "https://m.media-amazon.com/images/I/51rttY7a+9L._h1_.png",
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 8,
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "image": "https://yt3.googleusercontent.com/kpfvYzDJ8pT6S8SuXGf3PKM4jGB7UYqTfyp3aNbRAqoMVMX4qb4lWCWk1ezhf-olBhYYJCnBsA=s900-c-k-c0x00ffffff-no-rj",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlJIOGtHi6yLhWs9gI0Bz1T83KoUzuqCQ7IQ&s",
     "title": "Uber",
     "companyName": "Uber Technologies, Inc.",
     "id": 17,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY",
+    "image": "https://upload.wikimedia.org/wikipedia/he/5/56/Canva-logo.png",
     "title": "Canva",
     "companyName": "Canva",
     "id": 18,
@@ -357,6 +357,150 @@
       { "name": "3 star", "count": 7350000 },
       { "name": "4 star", "count": 14700000 },
       { "name": "5 star", "count": 22540000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s",
+    "id": 21,
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "description": "ChatGPT is an AI-powered assistant that helps users with writing, coding, learning, and problem-solving. It offers natural conversation capabilities and deep contextual understanding, making it a versatile productivity tool.",
+    "size": "85 MB",
+    "reviews": "10M",
+    "ratingAvg": 5,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 7200000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSp4zGY1B6RI6Bt4XvSz9D1vMQuCbOfhiFQ&s",
+    "id": 22,
+    "title": "BeReal",
+    "companyName": "BeReal Inc.",
+    "description": "BeReal encourages authenticity by allowing users to share one unfiltered photo per day. It aims to create a social environment free from filters and staged posts, promoting genuine interactions.",
+    "size": "65 MB",
+    "reviews": "2M",
+    "ratingAvg": 4.8,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 600000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/1200px-Threads_%28app%29.svg.png",
+    "id": 23,
+    "title": "Threads",
+    "companyName": "Meta Platforms Inc.",
+    "description": "Threads is Meta’s social platform for sharing short text updates and engaging in real-time discussions. Integrated with Instagram, it’s a fresh space for trending conversations and community interaction.",
+    "size": "90 MB",
+    "reviews": "5M",
+    "ratingAvg": 4,
+    "downloads": "150M+",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 3800000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Lemon8_icon.png/250px-Lemon8_icon.png",
+    "id": 24,
+    "title": "Lemon8",
+    "companyName": "ByteDance Ltd.",
+    "description": "Lemon8 blends lifestyle content with social networking, allowing users to share creative posts about fashion, travel, food, and photography in an aesthetic and engaging platform.",
+    "size": "88 MB",
+    "reviews": "3M",
+    "ratingAvg": 4.4,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 1350000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD37aOT3nOY6DfDzNnbgPYn1sNXTN6rFRHBw&s",
+    "id": 25,
+    "title": "Bluesky Social",
+    "companyName": "Bluesky PBLLC",
+    "description": "Bluesky is a decentralized social networking app focused on open protocols and user freedom. It allows users to connect, share updates, and control their data while exploring diverse communities.",
+    "size": "72 MB",
+    "reviews": "1M",
+    "ratingAvg": 4.7,
+    "downloads": "20M+",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 460000 }
+    ]
+  },
+  {
+    "image": "https://www.fahimai.com/wp-content/uploads/2024/05/2-3.png",
+    "id": 26,
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "description": "CapCut is a free all-in-one video editor with advanced tools, filters, and templates for social media content creation. It’s perfect for editing, trimming, and exporting high-quality videos effortlessly.",
+    "size": "120 MB",
+    "reviews": "8M",
+    "ratingAvg": 5,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 5900000 }
+    ]
+  },
+  {
+    "image": "https://prod-findmyaitool.s3.us-east-1.amazonaws.com/images/ai-tool/logo/Character%20AI-1723798424921",
+    "id": 27,
+    "title": "Character.AI",
+    "companyName": "Character Technologies",
+    "description": "Character.AI lets users chat with AI personalities or create custom characters that talk like real people. From fun conversations to story writing, it’s a hub for creative AI interactions.",
+    "size": "110 MB",
+    "reviews": "3M",
+    "ratingAvg": 4.3,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1300000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Temu_logo_icon.svg/1200px-Temu_logo_icon.svg.png",
+    "id": 28,
+    "title": "Temu",
+    "companyName": "PDD Holdings Inc.",
+    "description": "Temu is an online shopping platform offering affordable products in every category. It provides global access to millions of products with fast delivery and a secure shopping experience.",
+    "size": "80 MB",
+    "reviews": "7M",
+    "ratingAvg": 5,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 4300000 }
     ]
   }
 ]
