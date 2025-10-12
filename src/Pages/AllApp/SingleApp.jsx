@@ -6,7 +6,7 @@ const SingleApp = ({app}) => {
     const {image,title,ratingAvg,downloads,id} = app;
     // console.log(app);
     return (
-        <Link to={`/appDetails/${id}`} className="card shadow-md w-full duration-1000 hover:scale-103 hover:shadow-xl cursor-pointer">
+        <Link to={`/appDetails/${id}`} className="card shadow-md w-50 duration-1000 hover:scale-103 hover:shadow-xl cursor-pointer">
                         <figure className='p-2'>
                             <img
                             src={image}
